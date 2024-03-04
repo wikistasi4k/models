@@ -1,0 +1,24 @@
+[
+{
+    "model": "posts.post",
+    "pk": 1,
+    "fields": {
+        "title": "First Post",
+        "content": "This is my first post.",
+        "created": "2024-02-27T10:21:52.149Z",
+        "modified": "2024-02-27T10:21:52.149Z",
+        "author": 1
+    }
+},
+{
+    "model": "posts.post",
+    "pk": 2,
+    "fields": {
+        "title": "Second Post",
+        "content": "This is my second post.",
+        "created": "2024-02-27T10:21:52.272Z",
+        "modified": "2024-02-27T10:21:52.272Z",
+        "author": 2
+    }
+}
+]

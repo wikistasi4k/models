@@ -1,0 +1,20 @@
+[
+  {
+    "model": "posts.post",
+    "pk": 1,
+    "fields": {
+      "title": "First Post",
+      "content": "This is my first post.",
+      "author": 1
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 2,
+    "fields": {
+      "title": "Second Post",
+      "content": "This is my second post.",
+      "author": 2
+    }
+  }
+]
